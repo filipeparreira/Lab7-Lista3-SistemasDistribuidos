@@ -1,0 +1,13 @@
+"Response":201
+("POST https"://api.correios.com.br/token/v1/autentica) 201{
+   "ambiente":"PRODUCAO",
+   "id":"47388120840",
+   "ip":"189.73.27.151, 192.168.1.131",
+   "perfil":"PF",
+   "cpf":"47388120840",
+   "categoria":"Id0",
+   "emissao":"2025-06-12T14:44:34",
+   "expiraEm":"2025-06-13T14:44:34",
+   "zoneOffset":"-03:00",
+   "token":"eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE3NDk3NTAyNzQsImlzcyI6InRva2VuLXNlcnZpY2UiLCJleHAiOjE3NDk4MzY2NzQsImp0aSI6ImY5OGYxZDY4LTAyOTgtNGIwMi1hNTI5LTNjMmI2MmU3NDBkNSIsImFtYmllbnRlIjoiUFJPRFVDQU8iLCJwZmwiOiJQRiIsImlwIjoiMTg5LjczLjI3LjE1MSwgMTkyLjE2OC4xLjEzMSIsImNhdCI6IklkMCIsImNwZiI6IjQ3Mzg4MTIwODQwIiwiaWQiOiI0NzM4ODEyMDg0MCJ9.AUs8_mEharr2PsToM3ehsfPhLfaAy4F9lqD0UhSHM6DY6sbdBaBtcXHKfjrERqYpSStHUcCNTAOA0kttAplF6N7zLfxyeC1Wlqa9qb1WZWSE5PiQ-g8hlPBHi2RzbWF3fnH-ZY0YUvQ9nQi4LR9v5ATakn5eQ5jdb7FBEFnxNo1SLf0JBl_5_zQF_jkIyt1E6dZfAqzAmig3eDMkxa_2cH9BV9OASMleVbOWx6pCqLpPdURjhaHFljMyZZy8xpi4POOBivRHHXKJAeQqhjd-2RyR8vyVX55mOK8JcbX2t_WpihX8VlKb_ULAqxjNiE1T8ngEXkLNMUKKDbJpIwJEhA"
+}"Fim!"
