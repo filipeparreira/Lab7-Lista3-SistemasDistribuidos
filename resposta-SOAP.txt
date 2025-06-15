@@ -1,0 +1,12 @@
+---Requisicao1---
+Request SOAP Message:
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns="http://www.dataaccess.com/webservicesserver/"><SOAP-ENV:Header/><SOAP-ENV:Body><ns:NumberToWords><ubiNum>1</ubiNum></ns:NumberToWords></SOAP-ENV:Body></SOAP-ENV:Envelope>Response SOAP Message:
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>one </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+Fim!
